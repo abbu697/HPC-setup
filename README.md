@@ -241,4 +241,13 @@ debug1: Next authentication method: password
 
 
 Lastly, one can save the settinga nd cod on the cloud also. there has been changes with time. the linux is best for the HPC setup.
+
+with the help of linux a user can setup its HPC environment. Also there are different procedures and ways to to setup the environment. A institudes or organiston' s site is helpfull.
+
+kindly find the given below screenshoot:
+![image](https://github.com/user-attachments/assets/4ed7555d-40bb-4a53-971a-ee81e0183852)
+
+
+
+
 ...
