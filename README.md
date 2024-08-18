@@ -2,11 +2,14 @@
 Steps for the HPC setup
 
 
-here are steps to setup HPC on your local machines. there are some steps that are different to access the clustor. the below stes and commands have to run on the local system for the setup:-
+here are steps to setup HPC on your local machines. there are some steps that are different to access the clustor. the below steps and commands have to run on the local system for the setup:-
 
 
 
-This guide describes how to use OpenSSH to connect to the HPC systems. OpenSSH is supported under Linux, Mac, and Windows.
+This guide describes how to use OpenSSH to connect to the HPC systems. OpenSSH is supported by Linux, Mac, and Windows.
+
+
+
 
 Reporting SSH connection issues
 
@@ -237,14 +240,13 @@ sign_and_send_pubkey: signing failed for RSA "/home/max/.ssh/id_rsa" from agent:
 debug1: Next authentication method: password
 
 
+Lastly, one can save the settings and codes on the cloud also. There has been changes with time. The linux is best for the HPC setup.
+
+With the help of linux a user can setup its HPC environment. Also there are different procedures and ways to setup the environment.  Institutes or organisation' s site is helpful.
+
+kindly find the given below screenshot:
 
 
-
-Lastly, one can save the settinga nd cod on the cloud also. there has been changes with time. the linux is best for the HPC setup.
-
-with the help of linux a user can setup its HPC environment. Also there are different procedures and ways to to setup the environment. A institudes or organiston' s site is helpfull.
-
-kindly find the given below screenshoot:
 ![image](https://github.com/user-attachments/assets/4ed7555d-40bb-4a53-971a-ee81e0183852)
 
 
